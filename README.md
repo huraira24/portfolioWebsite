@@ -6,7 +6,7 @@ A modern, responsive portfolio website built using **HTML, CSS, and JavaScript**
 
 ## 🚀 Live Demo
 
-👉 https://your-username.github.io/portfolioWebsite/
+👉 https://huraira24.github.io/portfolioWebsite/
 
 ---
 
