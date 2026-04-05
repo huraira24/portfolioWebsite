@@ -56,6 +56,3 @@ portfolioWebsite/
 
 Inspired by modern portfolio design trends and best practices.
 
----
-
-⭐ If you like this project, consider giving it a star on GitHub!
